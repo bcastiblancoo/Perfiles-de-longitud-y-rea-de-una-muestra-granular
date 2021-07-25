@@ -1,2 +1,2 @@
-# Perfiles-de-longitud-y-rea-de-una-muestra-granular
+# Perfiles de longitud y área de una muestra granular
 Tarea 3 - curso de Técnicas de Caracterización
