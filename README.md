@@ -1,9 +1,9 @@
 # Perfiles de longitud y área de una muestra granular
-Tarea 3 - curso de Técnicas de Caracterización\
+Tarea 3 - curso de Técnicas de Caracterización
 
 #Descripción
 
-En este repositorio se encuentra los datos tomados por el programa ImageJ y los respectivos códigos usados para su análisis.\
+En este repositorio se encuentra los datos tomados por el programa ImageJ, los respectivos códigos y gráficas hechas para su análisis.
 
 #Archivos
 
